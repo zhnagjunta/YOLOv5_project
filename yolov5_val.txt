@@ -1,0 +1,8 @@
+C:\Users\zhangjt\Desktop\YOLOv5\yolov5-car\VOCdevkit/VOC2007/JPEGImages/7d128593-0ccfea4c.jpg
+C:\Users\zhangjt\Desktop\YOLOv5\yolov5-car\VOCdevkit/VOC2007/JPEGImages/7e788ad5-00000000.jpg
+C:\Users\zhangjt\Desktop\YOLOv5\yolov5-car\VOCdevkit/VOC2007/JPEGImages/7ed63746-764b90a2.jpg
+C:\Users\zhangjt\Desktop\YOLOv5\yolov5-car\VOCdevkit/VOC2007/JPEGImages/7f121a33-526f912b.jpg
+C:\Users\zhangjt\Desktop\YOLOv5\yolov5-car\VOCdevkit/VOC2007/JPEGImages/7ff455ce-00000000.jpg
+C:\Users\zhangjt\Desktop\YOLOv5\yolov5-car\VOCdevkit/VOC2007/JPEGImages/8a56deb7-6cf433c2.jpg
+C:\Users\zhangjt\Desktop\YOLOv5\yolov5-car\VOCdevkit/VOC2007/JPEGImages/8a8a572f-261928a7.jpg
+C:\Users\zhangjt\Desktop\YOLOv5\yolov5-car\VOCdevkit/VOC2007/JPEGImages/8ab1da52-09334407.jpg
